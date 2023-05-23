@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/jjonghee/static/css/main.367899cf.css",
-    "main.js": "/jjonghee/static/js/main.b45c787c.js",
-    "index.html": "/jjonghee/index.html",
-    "main.367899cf.css.map": "/jjonghee/static/css/main.367899cf.css.map",
-    "main.b45c787c.js.map": "/jjonghee/static/js/main.b45c787c.js.map"
+    "main.css": "/jonghee/static/css/main.367899cf.css",
+    "main.js": "/jonghee/static/js/main.b45c787c.js",
+    "index.html": "/jonghee/index.html",
+    "main.367899cf.css.map": "/jonghee/static/css/main.367899cf.css.map",
+    "main.b45c787c.js.map": "/jonghee/static/js/main.b45c787c.js.map"
   },
   "entrypoints": [
     "static/css/main.367899cf.css",
